@@ -1,6 +1,6 @@
 # Indochat
 
-# MYSQL
+# Technical test MYSQL
 1.SELECT name From employee where ManagerId = 3
 
 2.SELECT  salary FROM `salary` ORDER BY salary DESC LIMIT 1,1
